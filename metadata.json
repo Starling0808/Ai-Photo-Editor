@@ -1,0 +1,7 @@
+{
+  "name": "Ai Photo Editor",
+  "description": "A professional-grade photo editor combining real-time CSS filters with Gemini AI-powered generative editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
